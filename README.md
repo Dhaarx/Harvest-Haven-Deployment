@@ -205,7 +205,8 @@ git clone https://github.com/Dhaarx/cropprediction-dl-api
 cd cropprediction-dl-api
 pip install -r requirements.txt
 python app.py
-
+```
+---
 ## 📝 Feedback and Contributions
 
 Contributions are welcome! For major changes, please open an issue to discuss your ideas. We look forward to building a sustainable future together! 🧑‍🌾
