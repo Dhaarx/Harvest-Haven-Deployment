@@ -141,7 +141,7 @@ To get started with Harvest Haven:
 
 ### 🧠 1. Plant Disease Detection (Deep Learning)
 - **Repo:** [cropprediction-dl-api](https://github.com/Dhaarx/cropprediction-dl-api)
-- **Endpoint:** [`/predict`](https://cropprediction-dl-api.onrender.com/predict)
+- **Endpoint:** (https://cropprediction-dl-api.onrender.com/predict)
 - **Description:** Predicts leaf disease using a deep learning model.
 - **Tech:** Flask + CNN model
 
@@ -149,7 +149,7 @@ To get started with Harvest Haven:
 
 ### 📚 2. Retrieval-Augmented Generation (RAG)
 - **Repo:** [rag-api](https://github.com/Dhaarx/rag-api)
-- **Endpoint:** [`/rag`](https://rag-api-8u2y.onrender.com/rag)
+- **Endpoint:** (https://rag-api-8u2y.onrender.com/rag)
 - **Description:** Fetches content and images related to the disease predicted by the DL model.
 - **Tech:** Flask + PDF content extraction + Semantic Search
 
@@ -158,15 +158,15 @@ To get started with Harvest Haven:
 ### 💬 3. AgriBot – Crop & Livestock Chatbot
 - **Repo:** [cropbot-api](https://github.com/Dhaarx/cropbot-api)
 - **Endpoints:**
-  - [`/crops`](https://cropbot-api.onrender.com/crops) – Chatbot for crop-related queries  
-  - [`/livestock`](https://cropbot-api.onrender.com/livestock) – Chatbot for livestock-related queries
+  - (https://cropbot-api.onrender.com/crops) – Chatbot for crop-related queries  
+  - (https://cropbot-api.onrender.com/livestock) – Chatbot for livestock-related queries
 - **Tech:** Flask + Google Gemini API
 
 ---
 
 ### 🌱 4. Fertilizer Recommendation
 - **Repo:** [ml-api](https://github.com/Dhaarx/ml-api)
-- **Endpoint:** [`/predict`](https://fertilizer-docker-api.onrender.com/predict)
+- **Endpoint:** (https://fertilizer-docker-api.onrender.com/predict)
 - **Description:** Recommends the most suitable fertilizer based on crop and soil data.
 - **Tech:** Flask + Random Forest Model
 
@@ -174,7 +174,7 @@ To get started with Harvest Haven:
 
 ### 🌾 5. Crop Recommendation
 - **Repo:** [crop_prediction-api](https://github.com/Dhaarx/crop_prediction-api)
-- **Endpoint:** [`/predict`](https://crop-prediction-api-2618.onrender.com/predict)
+- **Endpoint:** (https://crop-prediction-api-2618.onrender.com/predict)
 - **Description:** Suggests the best crop to grow based on soil, climate, and nutrient data.
 - **Tech:** Flask + Random Forest Model
 
