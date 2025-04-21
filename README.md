@@ -122,13 +122,12 @@ To get started with Harvest Haven:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Dhaarx/ksr-GDG-hack.git
+   git clone https://github.com/Dhaarx/Harvest-Haven-Deployment.git
    ```
 
 2. **Install Dependencies**:
    Navigate to the project folder and install the dependencies:
    ```bash
-   cd frontend
    npm install
    ```
 
