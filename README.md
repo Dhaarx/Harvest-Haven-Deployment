@@ -182,7 +182,7 @@ To get started with Harvest Haven:
 
 ### 🗃️ 6. MongoDB Backend API
 - **Repo:** [mongodb-api-Harvest-Haven](https://github.com/Dhaarx/mongodb-api-Harvest-Haven-)
-- **Endpoint:** [`/`](https://mongodb-api-harvest-haven.onrender.com)
+- **Endpoint:** (https://mongodb-api-harvest-haven.onrender.com)
 - **Description:** Handles MongoDB data storage for all modules (users, queries, predictions, etc.).
 - **Tech:** Node.js + Express + MongoDB Atlas
 
